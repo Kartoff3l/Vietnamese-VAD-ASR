@@ -1,2 +1,2 @@
 # VietSpeech-Vietnamese-VAD-Gated-ASR-Evaluation-and-API-Pipeline
-VietSpeech is an offline Vietnamese speech-to-text evaluation pipeline that compares direct whole-audio transcription with WebRTC-VAD-gated and Silero-VAD-gated transcription using faster-whisper. It standardizes input audio, detects speech segments, generates timestamped transcripts, and measures the trade-off between ASR accuracy, processing efficiency, and speech-boundary quality.
+Vietnamese ASR benchmark comparing whole-audio, WebRTC-VAD-gated, and Silero-VAD-gated transcription using faster-whisper.
