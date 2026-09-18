@@ -1,1 +1,7 @@
+asr:
+  model: base
+  language: vi
+  task: transcript
+  beam_size: 5
+  compute_type: int8
 
