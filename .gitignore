@@ -1,0 +1,18 @@
+# Python cache & venv
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.pytest_cache/
+
+# Audio data nặng (tránh đẩy hàng trăm MB/GB lên GitHub)
+data/eval/
+data/raw/
+tests/vivos/waves/
+*.wav
+*.mp3
+*.flac
+
+# Kết quả chạy
+results/figures/
+results/benchmark.csv
