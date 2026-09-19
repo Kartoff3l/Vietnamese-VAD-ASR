@@ -16,3 +16,7 @@ tests/vivos/waves/
 # Kết quả chạy
 results/figures/
 results/benchmark.csv
+
+# Temporary and lock files
+.~lock.*
+*.tmp
