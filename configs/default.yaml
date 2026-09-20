@@ -1,7 +1,8 @@
 asr:
   model: base
   language: vi
-  task: transcript
+  task: transcribe
   beam_size: 5
+  device: cpu
   compute_type: int8
 

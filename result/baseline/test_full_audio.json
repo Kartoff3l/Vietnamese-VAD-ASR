@@ -1,0 +1,35 @@
+{
+  "audio_path": "data\\eval\\testingASR.wav",
+  "pipeline": "full_audio",
+  "vad_method": "none",
+  "asr_model": "base",
+  "device": "cpu",
+  "compute_type": "int8",
+  "requested_language": "vi",
+  "detected_language": "vi",
+  "detected_language_probability": 1.0,
+  "task": "transcribe",
+  "beam_size": 5,
+  "audio_duration_second": 7.28,
+  "asr_runtime_seconds": 7.301,
+  "asr_rtf": 1.0029,
+  "num_asr_segments": 3,
+  "segments": [
+    {
+      "start_s": 0.0,
+      "end_s": 2.0,
+      "text": "Hello hello hello"
+    },
+    {
+      "start_s": 2.0,
+      "end_s": 5.0,
+      "text": "Hôm nay mình đang cự nghiệp hay không?"
+    },
+    {
+      "start_s": 5.0,
+      "end_s": 6.0,
+      "text": "ASR"
+    }
+  ],
+  "transcript": "Hello hello hello Hôm nay mình đang cự nghiệp hay không? ASR"
+}
