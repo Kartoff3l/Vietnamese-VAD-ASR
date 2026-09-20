@@ -1,1 +1,24 @@
-
+id,audio_path,reference_text,condition,speaker_id,duration_seconds,boundary_label_path
+bud500_0,data/eval/moderate_noise/bud500_0.wav,câu chuyện cổ tích này mà thôi,moderate_noise,bud500,1.712,
+bud500_1,data/eval/moderate_noise/bud500_1.wav,tôi thì tôi nghĩ rằng là hầu hết tất cả,moderate_noise,bud500,3.002,data/boundaries/bud500_1.json
+bud500_3,data/eval/moderate_noise/bud500_3.wav,khách du lịch quốc tế và trong nước bốn,moderate_noise,bud500,2.462,
+bud500_4,data/eval/moderate_noise/bud500_4.wav,chúng ta như là có quan hệ với ai đó,moderate_noise,bud500,3.262,data/boundaries/bud500_4.json
+bud500_5,data/eval/moderate_noise/bud500_5.wav,xơm đang làm ở việt nam,moderate_noise,bud500,2.055,
+bud500_18,data/eval/moderate_noise/bud500_18.wav,lúc này quấn quýt như đôi chim sâu nên,moderate_noise,bud500,2.121,
+bud500_13,data/eval/clean/bud500_13.wav,các bác sĩ có thể chăm sóc người bệnh,clean,bud500,1.722,data/boundaries/bud500_13.json
+VIVOSDEV07_115,data/eval/clean/VIVOSDEV07_115.wav,vào cơ quan là anh hót giống hệt nhồng với lột lưỡi vậy,clean,VIVOSDEV07,3.781,
+VIVOSDEV07_107,data/eval/clean/VIVOSDEV07_107.wav,nguyên thứ trưởng bộ đại học và giáo dục chuyên nghiệp cũ,clean,VIVOSDEV07,3.938,data/boundaries/VIVOSDEV07_107.json
+VIVOSDEV07_098,data/eval/clean/VIVOSDEV07_098.wav,trận chiến xích bích,clean,VIVOSDEV07,3.375,
+VIVOSDEV07_093,data/eval/clean/VIVOSDEV07_093.wav,phục vụ cho mùa thi đại học đang đến sát sạt,clean,VIVOSDEV07,3.312,
+vimd_1,data/eval/pause_heavy/vimd_1.wav,đầu năm thì cũng đã cùng với bên khuyến nông khuyến nâm kết hợp và bên ủy ban đã chỉ đạo để bên khuyến nông khuyến lâm sớm tuyên truyền bà con nhân dân,pause_heavy,vimd,9.239,data/boundaries/vimd_1.json
+common_voice_1,data/eval/pause_heavy/common_voice_1.wav,à dạ không ạ ngại quá,pause_heavy,common,3.816,
+common_voice_6,data/eval/pause_heavy/common_voice_6.wav,ở bên trong trinh tự hỏi,pause_heavy,common,3.648,
+common_voice_17,data/eval/pause_heavy/common_voice_17.wav,cây cỏ tỉnh táo,pause_heavy,common,5.592,data/boundaries/common_voice_17.json
+common_voice_26,data/eval/pause_heavy/common_voice_26.wav,thế còn chuyện cầu xin tình cảm với anh chàng khi thị sao,pause_heavy,common,7.08,
+common_voice_49,data/eval/pause_heavy/common_voice_49.wav,dắt tay em bước bên thềm hạnh phúc,pause_heavy,common,5.256,
+common_voice_0,data/eval/short_utterance/common_voice_0.wav,buồn thế chứ,short_utterance,common,3.432,data/boundaries/common_voice_0.json
+common_voice_4,data/eval/short_utterance/common_voice_4.wav,kịch nghệ,short_utterance,common,2.688,
+common_voice_78,data/eval/short_utterance/common_voice_78.wav,khiếp thật đấy,short_utterance,common,2.556,data/boundaries/common_voice_78.json
+common_voice_94,data/eval/short_utterance/common_voice_94.wav,không phải,short_utterance,common,2.34,
+common_voice_96,data/eval/short_utterance/common_voice_96.wav,mà này,short_utterance,common,2.664,
+bud500_54_edited,data/eval/short_utterance/bud500_54_edited.wav,anh ơi,short_utterance,bud500,1.264,
