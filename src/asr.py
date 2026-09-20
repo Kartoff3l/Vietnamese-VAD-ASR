@@ -93,7 +93,7 @@ def transcribe_full_audio(
         "detected_language_probability": round(float(info.language_probability), 4,),
         "task": task,
         "beam_size": beam_size,
-        "audio_duration_second": round(audio_duration_second, 3),
+        "audio_duration_seconds": round(audio_duration_second, 3),
         "asr_runtime_seconds": round(asr_runtime_s, 3),
         "asr_rtf": round(asr_runtime_s / audio_duration_second, 4),
         "num_asr_segments": len(segment_results),
